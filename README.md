@@ -21,7 +21,7 @@ Devices that doesn't work
 
  - I2C Trackpad 
  - GPU GTX1070 with MAX-Q Design
- - Keyboard backligt control
+ - Keyboard backlight control
  - Wi-Fi
  - Airdrop
  
