@@ -11,6 +11,7 @@ Worked perfectly devices
  - Sensors
  - Keyboard Fn Keys
  - Hidpi
+ - CPU frequency change
  
 Worked devices with small issues
 
@@ -41,6 +42,7 @@ Devices that doesn't work
  - 传感器
  - Fn键
  - Hidpi
+ - CPU变频
  
  有点问题的设备
  
