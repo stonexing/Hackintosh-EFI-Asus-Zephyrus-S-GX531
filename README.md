@@ -1,6 +1,6 @@
 # Hacintosh-EFI-Asus-Zephyrus-S-GX531
 A nearly perfect EFI for Asus Zephyrus S GX531
-[ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/Resources/README-zh_CN)
+[ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
 ## Worked perfectly devices 
 
  - GPU UHD630 with brightness control.

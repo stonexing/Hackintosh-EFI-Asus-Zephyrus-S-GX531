@@ -1,5 +1,5 @@
  # 玩家国度冰刃3黑苹果EFI分享
- [ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/Resources/README-zh_CN)
+ [ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
  ## 完美的设备
  
  - 核显UHD630 开机直接亮屏，亮度可调，重启亮度记忆，刷新率可调。
