@@ -40,7 +40,7 @@
   - Wi-Fi
   - 隔空投送
 
-## 图库（用空再补上中文的）
+## 图库（有空再补上中文的）
 
 ![GX531](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/GX531.png)
 
