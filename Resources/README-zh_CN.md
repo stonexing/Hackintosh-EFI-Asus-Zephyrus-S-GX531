@@ -39,10 +39,58 @@
   - 键盘背光灯控制
   - Wi-Fi
   - 隔空投送
-  
- 还在完善中。。。
 
- ## 鸣谢
+## 图库（用空再补上中文的）
+
+![GX531](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/GX531.png)
+
+
+
+![Info](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/1.png)
+
+
+
+![FnSound](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/2.png)
+
+
+
+![FnBrightness](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/3.png)
+
+
+
+![ALC294](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/4.png)
+
+
+
+![Display](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/5.png)
+
+
+
+![Sound](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/6.png)
+
+
+
+![Nvme](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/7.png)
+
+
+
+![Battery](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/8.png)
+
+
+
+![Memory](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/9.png)
+
+
+
+![Graphics](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/10.png)
+
+
+
+![USB3.1](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/11.png)
+  
+还在完善中。。。
+
+## 鸣谢
 
 - [RehabMan](https://github.com/RehabMan) 提供的 [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)、[VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller)等驱动
 - [vit9696](https://github.com/vit9696) 提供的 [Lilu](https://github.com/acidanthera/Lilu) 、 [WhateverGreen](https://github.com/acidanthera/WhateverGreen) 、 [VirtualSMC](https://github.com/acidanthera/VirtualSMC) 等驱动
