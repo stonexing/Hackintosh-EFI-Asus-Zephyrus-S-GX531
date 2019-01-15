@@ -43,7 +43,7 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
 
  ## Gallery
 
-![GX531](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/case.png)
+![GX531](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/GX531.png)
 
 
 
