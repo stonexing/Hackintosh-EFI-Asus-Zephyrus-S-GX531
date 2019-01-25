@@ -4,7 +4,7 @@
 
 A nearly perfect EFI for Asus Zephyrus S GX531
 
-[ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
+ENGLISH | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
 
 This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/ROG-Republic-Of-Gamers/ROG-Zephyrus-S-GX531) and may also work on the whole GX531 family (GX531GX/GX531GV/GX531GW/GX531GM)
 ## Computer Configuration
