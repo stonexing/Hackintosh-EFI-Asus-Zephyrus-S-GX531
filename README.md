@@ -1,6 +1,7 @@
 # Hacintosh-EFI-Asus-Zephyrus-S-GX531
-![Release](https://img.shields.io/github/release/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531.svg)
-![Progress](https://img.shields.io/badge/Progress-Developing-ff69b4.svg)
+[![Release](https://img.shields.io/github/release/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531.svg)](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/releases)
+[![Progress](https://img.shields.io/badge/Progress-Developing-ff69b4.svg)]()
+
 A nearly perfect EFI for Asus Zephyrus S GX531
 
 [ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
