@@ -11,8 +11,8 @@
 | ----- | ---------------------------------------------------------------- |
 | 型号   | ASUS ROG Zephyrus S GX531GS                                      |
 | 主板   | GX531GS                                                          |
-| 处理器 | Intel(R) Core(TM) i7 8750H CPU @ 2.20GHz                         |
-| 内存   | 16 GB  2666MHz Dual Channel                                      |
+| 处理器 | Intel(R) Core(TM) i7 8750H @ 2.20GHz                             |
+| 内存   | 16 GB  2666MHz 双通道                                            |
 | 硬盘   | KINGSTON RBUSNS8154P3512GJ 512GB                                 |
 | 显卡   | Intel UHD Graphics 630/NVIDIA Geforce GTX 1070 with Max-Q Design |
 | 声卡   | ALC294                                                           |
