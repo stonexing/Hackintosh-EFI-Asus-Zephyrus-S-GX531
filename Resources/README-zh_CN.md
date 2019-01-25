@@ -1,6 +1,8 @@
  # 玩家国度冰刃3黑苹果EFI分享
+ [![Release](https://img.shields.io/github/release/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531.svg)](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/releases)
+[![Progress](https://img.shields.io/badge/Progress-完善中-ff69b4.svg)](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/README.md)
 
- [ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
+ [ENGLISH](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/tree/master/README.md) | 简体中文
 
 本EFI适用于[华硕玩家国度冰刃3](https://www.asus.com.cn/ROG-Republic-Of-Gamers/ROG-Zephyrus-S-GX531/)-GX531GS的黑苹果,也可能适用于整个冰刃3系列(GX531GX/GX531GW/GX531GV/GX531GM)
 ## Computer Configuration
