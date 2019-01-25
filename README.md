@@ -13,7 +13,7 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
 | -------------- | ---------------------------------------------------------------- |
 | Computer model | ASUS ROG Zephyrus S GX531GS                                      |
 | Motherboard    | GX531GS                                                          |
-| Processor      | Intel(R) Core(TM) i7 8750H CPU @ 2.20GHz                         |
+| Processor      | Intel(R) Core(TM) i7 8750H @ 2.20GHz                         |
 | Memory         | 16 GB  2666MHz Dual Channel                                      |
 | HardDisk       | KINGSTON RBUSNS8154P3512GJ 512GB                                 |
 | Graphics Card  | Intel UHD Graphics 630/NVIDIA Geforce GTX 1070 with Max-Q Design |
