@@ -30,7 +30,7 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
  - Sensors
  - Keyboard Fn Keys
  - Hidpi
- - CPU frequency change
+ - CPU clock speed changing
  
 ##  Worked devices with small issues
 
