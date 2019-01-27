@@ -8,19 +8,6 @@
 	<string>Asus_ROG</string>
 	<key>Theme</key>
 	<dict>
-		<key>Anime</key>
-		<array>
-			<dict>
-				<key>FrameTime</key>
-				<integer>200</integer>
-				<key>Frames</key>
-				<integer>2</integer>
-				<key>ID</key>
-				<integer>4</integer>
-				<key>Path</key>
-				<string>options_anim</string>
-			</dict>
-		</array>
 		<key>Background</key>
 		<dict>
 			<key>Path</key>
@@ -42,7 +29,7 @@
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
-			<integer>23</integer>
+			<integer>10</integer>
 			<key>Path</key>
 			<string>font.png</string>
 			<key>Proportional</key>
@@ -50,10 +37,12 @@
 			<key>Type</key>
 			<string>Load</string>
 		</dict>
-		<key>Layout</key>
+		<key>Origination</key>
 		<dict>
-			<key>TextOffset</key>
-			<integer>-20</integer>
+			<key>DesignHeight</key>
+			<integer>1080</integer>
+			<key>DesignWidth</key>
+			<integer>1920</integer>
 		</dict>
 		<key>Selection</key>
 		<dict>
@@ -66,6 +55,6 @@
 		</dict>
 	</dict>
 	<key>Year</key>
-	<string>2018</string>
+	<string>2019</string>
 </dict>
 </plist>
