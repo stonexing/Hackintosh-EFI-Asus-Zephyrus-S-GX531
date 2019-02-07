@@ -3,7 +3,7 @@
 [![Progress](https://img.shields.io/badge/Progress-Developing-ff69b4.svg)](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/README.md)
 [![License](https://img.shields.io/badge/License-GNU-lightgrey.svg)](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/LICENSE)
 
-A nearly perfect EFI for Asus Zephyrus S GX531
+A nearly perfect EFI for **Asus Zephyrus S GX531**
 
 ENGLISH | [简体中文](https://github.com/williambj1/Hacintosh-EFI-Asus-Zephyrus-S-GX531/blob/master/Resources/README-zh_CN.md)
 
@@ -22,13 +22,13 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
 
 ## Worked perfectly devices 
 
- - GPU UHD630 with brightness control.
+ - GPU UHD630 with brightness control
  - USB 3.1
  - Web Camera
  - Battery percentage showing
  - Sleeping
  - Sensors
- - Keyboard Fn Keys
+ - Keyboard Fn Keys*
  - Hidpi
  - CPU clock speed changing
  
@@ -42,8 +42,8 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
  - I2C Trackpad (Still need to wait for official CFL support)
  - GPU GTX1070 with MAX-Q Design
  - Keyboard backlight control
- - Wi-Fi
- - Airdrop
+ - Wi-Fi*
+ - Airdrop*
 
  ## Gallery
 
@@ -95,7 +95,7 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
  
  Still completing...
 
-  ## Thanks for
+  ## Credits
 
 - [RehabMan](https://github.com/RehabMan)'s [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)、[VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller)
 - [vit9696](https://github.com/vit9696)'s [Lilu](https://github.com/acidanthera/Lilu) 、 [WhateverGreen](https://github.com/acidanthera/WhateverGreen) 、 [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
