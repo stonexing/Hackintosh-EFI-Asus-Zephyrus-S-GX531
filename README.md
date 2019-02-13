@@ -98,7 +98,7 @@ This EFI is suitable for [ASUS ROG Zephyrus S GX531GS](https://www.asus.com/us/R
   ## Credits
 
 - [RehabMan](https://github.com/RehabMan)'s [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All), [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller)
-- [vit9696](https://github.com/vit9696)'s [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+- [vit9696](https://github.com/vit9696)'s [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [AppleALC](https://github.com/acidanthera/AppleALC)
 - [Alexandred](https://github.com/alexandred) and their team's [VoodooI2C](https://github.com/alexandred/VoodooI2C)
 - [daliansky](https://github.com/daliansky) and his [BLOG](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https%3A%2F%2Fblog.daliansky.net%2F)
 - [penghubingzhou](https://github.com/penghubingzhou)'s patience on helping me with the trackpad
