@@ -61,7 +61,7 @@
 			<string>VoodooGPIOCannonLakeLP</string>
 			<key>IONameMatch</key>
 			<array>
-				<string>INT34BB</string>
+				<string>INT34B3</string>
 			</array>
 			<key>IOProviderClass</key>
 			<string>IOService</string>
